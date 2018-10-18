@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android\\study\\Card2D\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image_a.jpg",
+        "source": "E:\\Android\\study\\Card2D\\app\\src\\main\\res\\drawable\\image_a.jpg"
+    },
+    {
+        "merged": "E:\\Android\\study\\Card2D\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image_b.jpg",
+        "source": "E:\\Android\\study\\Card2D\\app\\src\\main\\res\\drawable\\image_b.jpg"
+    }
+]
